@@ -60610,7 +60610,7 @@ return P.P($async$$0,r)},
 $S:16}
 L.a86.prototype={
 $1:function(a){var s=null,r=H.c([D.tM(s,new T.bL(new V.an(10,10,10,10),L.c3("Yes",s,s,s,A.c4(s,s,C.ad,s,s,s,s,s,s,s,s,16,s,C.b2,s,s,!0,s,s,s,s,s,s),s,s),s),C.b0,!1,s,s,s,s,s,s,s,s,s,s,s,new L.a84(a),s,s,s,s,s,s),D.tM(s,new T.bL(new V.an(10,10,10,10),L.c3("No",s,s,s,A.c4(s,s,C.ad,s,s,s,s,s,s,s,s,16,s,C.b2,s,s,!0,s,s,s,s,s,s),s,s),s),C.b0,!1,s,s,s,s,s,s,s,s,s,s,s,new L.a85(a),s,s,s,s,s,s)],t.Ma)
-return new E.no(L.c3("Make sure to click this button after receiving confirmation mail. Are you sure you want to confirm?",s,s,s,A.c4(s,s,s,s,s,s,s,s,s,s,s,16,s,C.a6,s,s,!0,s,s,s,s,s,s),s,s),r,s)},
+return new E.no(L.c3("Make sure this button is only clicked by guard at gym after you attend the session. Are you sure you want to confirm?",s,s,s,A.c4(s,s,s,s,s,s,s,s,s,s,s,16,s,C.a6,s,s,!0,s,s,s,s,s,s),s,s),r,s)},
 $S:360}
 L.a84.prototype={
 $0:function(){var s=0,r=P.Q(t.P),q=this,p
