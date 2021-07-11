@@ -1,11 +1,11 @@
 {
-    "name": "gym_slot_booking",
-    "short_name": "gym_slot_booking",
+    "name": "portfolio",
+    "short_name": "portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A Flutter Application for description about my achievements and experience in development",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
