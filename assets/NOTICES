@@ -12447,6 +12447,7 @@ path_provider_windows
 plugin_platform_interface
 url_launcher
 url_launcher_platform_interface
+webview_flutter
 
 Copyright 2013 The Flutter Authors. All rights reserved.
 
